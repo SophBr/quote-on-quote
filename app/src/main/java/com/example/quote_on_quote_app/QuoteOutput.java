@@ -26,10 +26,10 @@ public class QuoteOutput extends AppCompatActivity {
         int emotion_8 = Page8Question.EMOTION;
 
 
-        String label = String.format("Emotion 1: %d \n Emotion 2: %d" , emotion_1, emotion_2);
+        //String label = String.format("Emotion 1: %d \n Emotion 2: %d" , emotion_1, emotion_2);
 
-        TextView textView = (TextView) findViewById(R.id.textView9);
-        textView.setText(label);
+        //TextView textView = (TextView) findViewById(R.id.textView9);
+        //textView.setText(label);
     }
 
 }

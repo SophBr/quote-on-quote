@@ -4,20 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/cotton_candy_sky_art_block_collections"
     tools:context=".QuoteOutput">
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="290dp"
-        android:layout_height="512dp"
-        android:layout_marginTop="92dp"
+        android:layout_width="287dp"
+        android:layout_height="162dp"
+        android:layout_marginTop="240dp"
         android:text="@string/quote"
         android:textAlignment="center"
-        android:textColor="@color/purple_500"
-        android:textSize="20sp"
+        android:textColor="#2E0E67"
+        android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
