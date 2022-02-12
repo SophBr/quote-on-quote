@@ -19,23 +19,26 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="196dp"
+        android:layout_width="250dp"
         android:layout_height="0dp"
         android:layout_marginTop="32dp"
-        android:text="@string/question_angry"
+        android:text="@string/question_excited"
+        android:textAlignment="center"
         android:textColor="@color/teal_200"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="How angry do you feel?" />
+        tools:text="How excited do you feel?" />
 
     <SeekBar
         android:id="@+id/seekBar4"
         android:layout_width="244dp"
         android:layout_height="0dp"
         android:layout_marginTop="56dp"
+        android:max="100"
+        android:progress="50"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"

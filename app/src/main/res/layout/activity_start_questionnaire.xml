@@ -8,16 +8,17 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="196dp"
+        android:layout_width="250dp"
         android:layout_height="0dp"
         android:layout_marginTop="32dp"
-        android:text="@string/question_happy"
+        android:text="@string/question_anxious"
+        android:textAlignment="center"
         android:textColor="@color/teal_200"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="How happy do you feel?" />
+        tools:text="How anxious do you feel?" />
 
     <SeekBar
         android:id="@+id/seekBar"
