@@ -18,8 +18,15 @@ public class QuoteOutput extends AppCompatActivity {
 
         int emotion_1 = StartQuestionnaire.EMOTION;
         int emotion_2 = Page2Question.EMOTION;
+        int emotion_3 = Page3Question.EMOTION;
+        int emotion_4 = Page4Question.EMOTION;
+        int emotion_5 = Page5Question.EMOTION;
+        int emotion_6 = Page6Question.EMOTION;
+        int emotion_7 = Page7Question.EMOTION;
+        int emotion_8 = Page8Question.EMOTION;
 
-        String label = String.format("Emotion 1: %d \n Emotion 2: %d", emotion_1, emotion_2);
+
+        String label = String.format("Emotion 1: %d \n Emotion 2: %d" , emotion_1, emotion_2);
 
         TextView textView = (TextView) findViewById(R.id.textView9);
         textView.setText(label);
