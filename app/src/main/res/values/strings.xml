@@ -10,5 +10,6 @@
     <string name="question_disgusted">How disgusted do you feel?</string>
     <string name="question_anxious">How anxious do you feel?</string>
     <string name="question_calm">How calm do you feel?</string>
+    <string name="quote">This is your sample quote!!</string>
     <string name="next_button">Next</string>
 </resources>
