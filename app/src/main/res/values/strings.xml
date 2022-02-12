@@ -3,4 +3,5 @@
     <string name="edit_message">What\'s my mood?</string>
     <string name="button_send">Start</string>
     <string name="question_happy">How happy do you feel?</string>
+    <string name="next_button">Next</string>
 </resources>

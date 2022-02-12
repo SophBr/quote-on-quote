@@ -1,6 +1,26 @@
+
+
 plugins {
     id 'com.android.application'
 }
+
+//apply plugin: 'com.chaquo.python'
+//defaultConfig {
+  //  sourceSets {
+  //      main {
+   //         python {
+  //              srcDirs = ["src/main/python"]
+   //         }
+    //    }
+   // }
+   // python {
+   //     buildPython "/usr/local/bin/python3"
+   //     buildPython "python3"
+  //  }
+  //  ndk {
+   //     abiFilters "armeabi-v7a", "x86"
+   // }
+//}
 
 android {
     compileSdk 32
@@ -26,6 +46,7 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 }
+
 
 dependencies {
 
