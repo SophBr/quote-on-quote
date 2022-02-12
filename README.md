@@ -6,6 +6,8 @@ You can rate different emotions on a scale and the app will give you an appropri
 
 ## Some pitures
 
+![WelcomeSite.png]
+
 ## How we built it
 The app was created in Java and the quotes are matched to the moods in python.
 
