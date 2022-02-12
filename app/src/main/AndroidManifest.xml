@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Quoteonquoteapp">
         <activity
+            android:name=".Page8Question"
+            android:exported="false" />
+        <activity
+            android:name=".QuoteOutput"
+            android:exported="false" />
+        <activity
+            android:name=".Page7Question"
+            android:exported="false" />
+        <activity
+            android:name=".Page6Question"
+            android:exported="false" />
+        <activity
+            android:name=".Page5Question"
+            android:exported="false" />
+        <activity
+            android:name=".Page4Question"
+            android:exported="false" />
+        <activity
             android:name=".Page3Question"
             android:exported="false" />
         <activity
