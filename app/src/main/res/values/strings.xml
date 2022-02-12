@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">quote-on-quote-app</string>
+    <string name="edit_message">What\'s my mood?</string>
+    <string name="button_send">Start</string>
 </resources>
