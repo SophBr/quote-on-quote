@@ -13,7 +13,7 @@ You can rate different emotions on a scale and the app will give you an appropri
 </div>
 
 ## A demo video
-https://user-images.githubusercontent.com/25502887/153755123-e8f6ec06-f2ab-4a90-861d-a68d10f722e1.mp4
+https://user-images.githubusercontent.com/25502887/153755535-6aa652a0-d5bd-47d5-be81-6b4ed4cd2f74.mp4
 
 ## How we built it
 The app was created in Java in Android Studio.
