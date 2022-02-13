@@ -12,6 +12,9 @@ You can rate different emotions on a scale and the app will give you an appropri
   <img src="https://github.com/SophBr/quote-on-quote/blob/main/screenshots/Screenshot_Quote.png" width="200" height="400" />
 </div>
 
+## A demo video
+https://user-images.githubusercontent.com/25502887/153755123-e8f6ec06-f2ab-4a90-861d-a68d10f722e1.mp4
+
 ## How we built it
 The app was created in Java in Android Studio.
 The quotes are matched to the moods in python.
