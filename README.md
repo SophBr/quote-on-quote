@@ -1,8 +1,22 @@
 # quote-on-quote
 
 ## What it does
-Quote on Quate is your daily mood quote that reflects your mood in a qoute.
+Quote on Quote is your daily mood quote that reflects your mood in a qoute.
 You can rate different emotions on a scale and the app will give you an appropriate quote to match your mood.
 
+## Some pitures
+<div>
+  <img src="https://github.com/SophBr/quote-on-quote/blob/main/screenshots/WelcomeSite.png" width="200" height="400" />
+  <img src="https://github.com/SophBr/quote-on-quote/blob/main/screenshots/enthusiastic.png" width="200" height="400" />
+  <img src="https://github.com/SophBr/quote-on-quote/blob/main/screenshots/calm.png" width="200" height="400" />
+  <img src="https://github.com/SophBr/quote-on-quote/blob/main/screenshots/Screenshot_Quote.png" width="200" height="400" />
+</div>
+
 ## How we built it
-The app was created in Java and the quotes reflecting the moods are generated in python using 
+The app was created in Java in Android Studio.
+The quotes are matched to the moods in python.
+
+## What we learned working on this project
+First and foremost we learned to come up with creative solutions to problems that seemed unsolvable
+
+## Try our app
