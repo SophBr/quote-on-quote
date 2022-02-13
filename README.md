@@ -13,6 +13,10 @@ You can rate different emotions on a scale and the app will give you an appropri
 </div>
 
 ## How we built it
-The app was created in Java and the quotes are matched to the moods in python.
+The app was created in Java in Android Studio.
+The quotes are matched to the moods in python.
+
+## What we learned working on this project
+First and foremost we learned to come up with creative solutions to problems that seemed unsolvable
 
 ## Try our app
